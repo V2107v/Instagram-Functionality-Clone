@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\e6ac0e574fd09e4a311f93d4e338d56f\\appcompat-v7-23.0.0\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "4,7,11,15,18,21,24,28,32,35,38,41,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,453,681,1018,1176,1326,1498,1726,1968,2139,2313,2482,2755",
+                        "endLines": "6,10,14,17,20,23,27,31,34,37,40,44,47",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "448,676,1013,1171,1321,1493,1721,1963,2134,2308,2477,2750,2950"
+                    },
+                    "to": {
+                        "startLines": "2,5,9,13,16,19,22,26,30,33,36,39,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,793,951,1101,1273,1501,1743,1914,2088,2257,2530",
+                        "endLines": "4,8,12,15,18,21,25,29,32,35,38,42,45",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,788,946,1096,1268,1496,1738,1909,2083,2252,2525,2725"
+                    }
+                }
+            ]
+        }
+    ]
+}
