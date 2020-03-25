@@ -1,2 +1,2 @@
-# Parse-Interaction-App
-An app to make use of Parse and create a miniature model to interact among users.
+# Instagram Functionality Clone
+Clone of Instagram's Sending and Receiving Photos Functionality using Parse Server.
